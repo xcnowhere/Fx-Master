@@ -1,0 +1,5 @@
+{
+  "name": "FX Master: Interactive Audio Effectors",
+  "description": "An interactive educational diagram demonstrating 12 types of audio effectors with real-time audio synthesis and visualization.",
+  "requestFramePermissions": []
+}
